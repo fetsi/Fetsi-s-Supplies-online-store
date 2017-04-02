@@ -1,0 +1,63 @@
+html {
+	font-family: Verdana;
+    overflow-y: scroll;
+	   
+}
+
+header {
+	height: 160px;
+	background-color: black;
+}
+
+.parent_container {
+	width: 80%;
+	margin: auto;
+}
+
+
+
+.navbar {
+	float: left;
+	height: 100%;
+	width: 10%;
+	background-color: #1960d1;	
+}
+
+.content {
+	height: 100%;
+	width: 90%;
+	float: right;
+	background-color: #7085a5;
+}
+
+.search_frame {
+	width: 80%;
+	margin: auto;
+	margin-top: 30px;
+	padding: 20px, 30px, 20px, 30px;
+	border-style: groove;
+	border-width: 5px;
+	border-color: grey;
+}
+
+.navbar ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.product_table, .product_table th, .product_table td {
+	margin: auto;
+	margin-top: 10px;
+	border-style: groove;
+	border-color: grey;
+	border-width: 3px;
+	border-collapse: collapse;
+}
+
+
+
+
+p {
+	font-family: Verdana, sans-serif;
+	color: black;
+}
