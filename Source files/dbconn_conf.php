@@ -1,8 +1,8 @@
 <?php
 
 define("HOST", "54.212.198.16");
-define("USER", "superuser");
-define("PASSWORD", "catnip456");
+define("USER", "********");
+define("PASSWORD", "*******");
 define("DB_NAME", "shop_db");
 
 
